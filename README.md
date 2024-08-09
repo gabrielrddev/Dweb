@@ -6,4 +6,4 @@
 # 05 - git clone <URL> // clonar o seu repositorio 
 # 06 - git pull .
 # 07 - git commit -m "string do que foi realizado"
-# 08 - git push origin (nomedoseucommit)
+# 08 - git push origin (nomedoseucommit) git push (caso queira alterar diretamente na main)
