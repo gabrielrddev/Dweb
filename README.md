@@ -4,3 +4,6 @@
 # 03 - npm install ou npm i //Para instalar o npm
 # 04 - npm run dev // Não lembro
 # 05 - git clone <URL> // clonar o seu repositorio 
+# 06 - git pull .
+# 07 - git commit -m "string do que foi realizado"
+# 08 - git push origin (nomedoseucommit)
