@@ -7,3 +7,4 @@
 # 06 - git pull .
 # 07 - git commit -m "string do que foi realizado"
 # 08 - git push origin (nomedoseucommit) git push (caso queira alterar diretamente na main)
+# 09 - git checkout minha-branch
